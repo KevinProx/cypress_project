@@ -1,0 +1,52 @@
+{
+  "MCO": {
+    "home": "https://www.mercadolibre.com/jms/mco/lgz/logout?go=https://www.mercadolibre.com.co#menu-user",
+    "baseURL": "https://envios.mercadolibre.com.co/seller-migrations/",
+    "addresses": "https://addresses.mercadolibre.com.co/newOnboardingXD",
+    "sales": "https://www.mercadolibre.com.co/ventas/listado",
+    "summary": "https://www.mercadolibre.com.co/resumen"
+  },
+  "MLA": {
+    "home": "https://www.mercadolibre.com/jms/mla/lgz/logout?go=https://www.mercadolibre.com.ar#menu-user",
+    "baseURL": "https://envios.mercadolibre.com.ar/seller-migrations/",
+    "addresses": "https://addresses.mercadolibre.com.ar/newOnboardingXD",
+    "sales": "https://www.mercadolibre.com.ar/ventas/listado",
+    "summary": "https://www.mercadolibre.com.ar/resumen",
+    "states": {
+      "CABA": "Ciudad Autónoma de Buenos Aires",
+      "ACB": "Córdoba"
+    }
+  },
+  "MLB": {
+    "home": "https://www.mercadolibre.com/jms/mlb/lgz/logout?go=https://www.mercadolivre.com.br#menu-user",
+    "baseURL": "https://envios.mercadolivre.com.br/seller-migrations/",
+    "addresses": "https://addresses.mercadolivre.com.br/newOnboardingXD",
+    "sales": "https://www.mercadolivre.com.br/vendas/lista",
+    "summary": "https://www.mercadolivre.com.br/resumo",
+    "states": {
+      "SP": "São Paulo",
+      "MG": "Minas Gerais"
+    }
+  },
+  "MLC": {
+    "home": "https://www.mercadolibre.com/jms/mlc/lgz/logout?go=https://www.mercadolibre.cl#menu-user",
+    "baseURL": "https://envios.mercadolibre.cl/seller-migrations/",
+    "addresses": "https://addresses.mercadolibre.cl/newOnboardingXD",
+    "sales": "https://www.mercadolibre.cl/ventas/listado",
+    "summary": "https://www.mercadolibre.cl/resumen",
+    "states": {
+      "RM": "Región Metropolitana"
+    }
+  },
+  "MLM": {
+    "home": "https://www.mercadolibre.com/jms/mlm/lgz/logout?go=https://www.mercadolibre.com.mx#menu-user",
+    "baseURL": "https://envios.mercadolibre.com.mx/seller-migrations/",
+    "addresses": "https://addresses.mercadolibre.com.mx/newOnboardingXD",
+    "sales": "https://www.mercadolibre.com.mx/ventas/listado",
+    "summary": "https://www.mercadolibre.com.mx/resumen",
+    "states": {
+      "JC": "Jalisco",
+      "BC": "Baja California"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "e2e_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record",
+    "cy:open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Seller Migrations - seller-migrations@mercadolibre.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
